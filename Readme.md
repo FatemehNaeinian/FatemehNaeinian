@@ -1,21 +1,15 @@
 ### :woman: About Me:
 
-📚 I'm an electrical engineering student with a minor in computer engineering. 
+Hi! I’m Fatemeh Naeinian, a first-year Ph.D. student in Electrical Engineering at New York University (NYU). My research focuses on artificial intelligence and autonomous driving, with interests in machine learning, deep learning, and computer vision.
 
-👩‍💻 My research interests are in the fields of Machine Learning, Deep Learning and Computer Vision.
+I earned my B.Sc. in Electrical Engineering with a minor in Computer Engineering from the University of Tehran. During my undergrad, I worked on a deep learning-based approach for robotic grasp planning, which led to a publication at the 32nd International Conference on Electrical Engineering (ICEE 2024).
+
+I’m passionate about building intelligent systems that can operate reliably in the real world, and I am excited to keep learning and contributing in this space.
 
 📧 To reach me, you can email me at: Fatemeh.Naeinian@gmail.com
 
 
-### :bar_chart: Here is a summary of my gitHub activity:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatemehNaeinian&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemehNaeinian&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
