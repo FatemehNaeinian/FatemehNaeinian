@@ -1,10 +1,6 @@
 ### :woman: About Me:
 
-Hi! I’m Fatemeh Naeinian, a first-year Ph.D. student in Electrical Engineering at New York University (NYU). My research focuses on artificial intelligence and autonomous driving, with interests in machine learning, deep learning, and computer vision.
-
-I earned my B.Sc. in Electrical Engineering with a minor in Computer Engineering from the University of Tehran. During my undergrad, I worked on a deep learning-based approach for robotic grasp planning, which led to a publication at the 32nd International Conference on Electrical Engineering (ICEE 2024).
-
-I’m passionate about building intelligent systems that can operate reliably in the real world, and I am excited to keep learning and contributing in this space.
+Hi! I’m Fatemeh Naeinian, a second-year Ph.D. student in Electrical Engineering at New York University (NYU). I earned my B.Sc. in Electrical Engineering with a minor in Computer Engineering from the University of Tehran. I’m passionate about building intelligent systems that can operate reliably in the real world, and I am excited to keep learning and contributing in this space.
 
 📧 To reach me, you can email me at: Fatemeh.Naeinian@gmail.com
 
